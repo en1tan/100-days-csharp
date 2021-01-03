@@ -2,6 +2,10 @@
 
 Official Starting date **January 5**
 
+## Materials
+
+[Link to Material](https://drive.google.com/file/d/1B0m75pkt_blRpZW7RtKzv2CnH8aAqcrj/view?usp=sharing)
+
 The roadmap will be as follows
 Every 8th day, a challenge will be put out based on the assumed material provided
 Every 10th day, There'll be revision of what has been learnt for the past 10 days and submission of current challenge
