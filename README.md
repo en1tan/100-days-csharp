@@ -1,6 +1,6 @@
 # 100-days-of-code-log
 
-#Check [Schedule](https://github.com/en1tan/100-days-csharp/tree/schedule)
+#Check [Schedule](https://github.com/en1tan/100-days-csharp/blob/schedule/SCHEDULE.md)
 
 <!-- **Main target:** **_Your Target for taking part in the challenge_**
 
