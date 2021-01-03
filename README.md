@@ -31,3 +31,10 @@ If you have got a link [Example]('https://github.com/en1tan/100-days-csharp) to 
 **Thoughts:** At last able to start the chellenge and do some real coding. Enjoyed the time and work. Wish to have a great journey.
 
 ---
+
+## Schedule
+
+If you want to get the schedule
+
+- `git clone https://github.com/en1tan/100-days-csharp.git`
+- `git checkout schedule` then check `SCHEDULE.md`
