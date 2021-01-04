@@ -1,35 +1,32 @@
-# 100-days-of-code-log
+# INTRODUCTION
 
-#Check [Schedule](https://github.com/en1tan/100-days-csharp/blob/schedule/SCHEDULE.md)
+This is an 100 days of C# .Net Challenge to promote sound knowledge, skills and applications of the C# .Net Language within the community. It is aimed at those who are absolute beginners, or those who want to refresh their knowledge about the language.
 
-<!-- **Main target:** **_Your Target for taking part in the challenge_**
+## Stages
 
-| Start Date  | End Date |
-| ----------- | -------- |
-| 5 Jan, 2021 | -------- |
+The challenge will be divided into 2 stages. The duration of the entire challenge is 100 days; 10 cycles of 10 days per cycle.
 
-## Goals
+### Stage 1
 
-- Make habit of coding daily & learn everyday
-- Learn C# for deeper knowledge
-- Make some real world projects for my portfolio
+Stage one shall be 30 days i.e. 3 cycles. You are expected to do the following during stage 1;
 
-## Log
+- Complete the C# book shared [here](https://drive.google.com/file/d/1B0m75pkt_blRpZW7RtKzv2CnH8aAqcrj/view?usp=sharing).
+- Do a 2 mini Console App per cycle.
+- Do at least 2 Algorithm & Data Structures challenges per cycle.
+- Submit all mini projects and algorithms at the end of each cycle.
 
-### Day 1: Jan 1, 2021, Friday
+### Stage 2
 
-**Today's Progress**:
+This stage will be devoted to frameworks and capstone projects.
 
-- The Progress for the day
-- Can be as many as possible
+- Cycle 4: Webforms.
+- Cycle 5: MVC.
+- Cycle 6: .NetCore.
+- Cycle 7: Building RESTful Web Api.
+- Cycle 8: Containerization & Docker
+- Cycle 9: Cloud Computing using Azure & Amazon Web Services
+- Cycle 10: Unit Testing & Capstone Projects
 
-**Link to work:**
-If you have got a link [Example]('https://github.com/en1tan/100-days-csharp) to the project for that day/week
+**Announcement of Winner**
 
-**New thing(s) learned:**
-
-- New ideas, skills, problems you picked up
-
-**Thoughts:** At last able to start the chellenge and do some real coding. Enjoyed the time and work. Wish to have a great journey.
-
---- -->
+_C# 9ja_
