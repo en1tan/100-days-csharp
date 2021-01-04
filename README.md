@@ -14,7 +14,7 @@
 
 ## Log
 
-### Day 1: Jan 1, 2021, Friday
+### Day 1: Jan 5, 2021, Tuesday
 
 **Today's Progress**:
 
