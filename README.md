@@ -26,7 +26,7 @@
 
 **Link to work:**
 
-- [Log 1]('https://github.com/en1tan/100dayscscode)
+- [Log 1](https://github.com/en1tan/100dayscscode)
 
 **New thing(s) learned:**
 
