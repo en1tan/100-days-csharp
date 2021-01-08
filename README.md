@@ -25,7 +25,7 @@
 
 **Link to work:**
 
-- [Log 1](https://github.com/en1tan/100dayscscode)
+- [Log 1](https://github.com/en1tan/100dayscscode) and `git checkout log-2`
 
 **New thing(s) learned:**
 
@@ -54,7 +54,7 @@
 
 **Link to work:**
 
-- [Log 1](https://github.com/en1tan/100dayscscode) and `git checkout log-2`
+- [Log 2](https://github.com/en1tan/100dayscscode) and `git checkout log-2`
 
 <!-- **New thing(s) learned:** -->
 
@@ -64,9 +64,28 @@
 
 ---
 
-<!-- ## Schedule
+### Day 3: Jan 7, 2021, Thursday
 
-If you want to get the schedule
+**Today's Progress**:
 
-- `git clone https://github.com/en1tan/100-days-csharp.git`
-- `git checkout schedule` then check `SCHEDULE.md` -->
+- Learnt all about Operators and Expressions
+- Operators:
+  - Arithmetic
+  - Assignment
+  - Comparison
+  - Logical
+- Operator Precendence
+- Comparison Operators
+- Type Conversion Operator
+- Expressions
+- Zero Division
+
+**Link to work:**
+
+- [Log 3](https://github.com/en1tan/100dayscscode) and `git checkout log-3`
+
+<!-- **New thing(s) learned:** -->
+
+<!-- **Thoughts:** -->
+
+---
